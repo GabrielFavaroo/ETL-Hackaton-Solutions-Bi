@@ -9,8 +9,8 @@ Nosso objetivo principal é democratizar o acesso aos dados de ouvidoria de Lime
 python -m venv venv
 
 Ative o ambiente
-source venv/bin/activate  # Linux/macOS
-# venv\Scripts\activate   # Windows
+source venv/bin/activate  # Linux/macOS  ||   # venv\Scripts\activate   # Windows
+
 
 Instale todas as dependências
 pip install -r requirements.txt
