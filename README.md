@@ -68,7 +68,7 @@ A fonte original consiste em um relatório em PDF estruturado, exigindo técnica
 
 <table style="width:100%; font-size:16px;">
   <tr>
-    <td>🐍 Python 3.10</td>
+    <td>🐍 Python 3.11.9</td>
     <td>📦 Pandas</td>
     <td>📑 Tabula (PDF Parsing)</td>
   </tr>
@@ -155,13 +155,22 @@ tabela[coluna] = pd.to_numeric(tabela[coluna], errors='coerce')
 
 <h2>📈 Exemplos Visuais</h2>
 
-<p>Você pode adicionar aqui imagens de como os dados estavam e como ficaram:</p>
 
-<ul>
-  <li>📸 Antes – Tabela bruta do PDF</li>
-  <li>📸 Depois – Tabela limpa e padronizada</li>
-</ul>
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 20px;">
 
+ 
+  <div style="text-align: center;">
+    <h4>📸 Antes – Tabela bruta do PDF</h4>
+    <img src="Hackaton Solutions BI/images/tabelaBruta.png" alt="Tabela bruta" style="max-width:400px; border:1px solid #ccc; border-radius:6px;">
+  </div>
+
+  
+  <div style="text-align: center;">
+    <h4>📸 Depois – Tabela limpa e padronizada</h4>
+    <img src="Hackaton Solutions BI/images/tabelaFinal.png" alt="Tabela tratada" style="max-width:400px; border:1px solid #ccc; border-radius:6px;">
+  </div>
+
+</div>
 <hr>
 
 <h2>🚀 Como Executar</h2>
@@ -173,6 +182,8 @@ pip install pandas tabula-py
 # 2. Coloque o PDF em: /data/raw/
 
 # 3. Execute o script principal
+
+# 4. CSVs tratados estarão em /data/processed/ automaticamente
 python main.py
 </pre>
 
