@@ -1,57 +1,57 @@
-Bairro,Aberto,Agendado,Cancelado,Concluído,Em andamento,Pendente,Total
+bairro,aberto,agendado,cancelado,concluido,em_andamento,pendente,total
 Anavec,8,0,3,192,23,1,227
-Área Rural de Limeira,19,0,44,203,69,1,336
+Area Rural de Limeira,19,0,44,203,69,1,336
 Bairro da Geada,1,0,0,26,4,0,31
 Bairro dos Frades,0,0,2,6,1,0,9
 Bairro dos Loiolas,13,0,3,18,6,0,40
 Bairro dos Lopes,4,0,5,16,6,0,31
 Bairro dos Pires,6,0,4,69,17,0,96
-Bairro Ferrão,0,0,4,0,1,0,5
+Bairro Ferrao,0,0,4,0,1,0,5
 Bairro Pires,5,0,2,13,4,0,24
-Bairro São Francisco,2,0,0,17,3,0,22
+Bairro Sao Francisco,2,0,0,17,3,0,22
 Boa Vista,35,0,10,344,31,0,420
-Campos Elíseos,4,0,1,12,1,0,18
+Campos Eliseos,4,0,1,12,1,0,18
 Centro,127,0,35,11039,93,1,11295
-Centro Industrial de Limeira - Cil,1,0,0,13,1,0,15
-Chácara Antonieta,10,0,3,57,22,0,92
-Chácara Boa Vista da Graminha,0,0,3,8,1,0,12
-Chácara Santa Paula,0,0,0,5,5,0,10
-Chácara São José,2,0,0,15,4,0,21
+Centro Industrial de Limeira Cil,1,0,0,13,1,0,15
+Chacara Antonieta,10,0,3,57,22,0,92
+Chacara Boa Vista da Graminha,0,0,3,8,1,0,12
+Chacara Santa Paula,0,0,0,5,5,0,10
+Chacara Sao Jose,2,0,0,15,4,0,21
 Colinas do Engenho,6,0,1,146,16,1,170
-Condomínio Industrial Duas Barras,1,0,1,6,2,0,10
-Conjunto Residencial Víctor D'andrea (CECAP),18,0,4,379,44,0,445
-Desmembramento O Área Breda,1,0,0,3,0,0,4
+Condominio Industrial Duas Barras,1,0,1,6,2,0,10
+Conjunto Residencial Victor Dandrea CECAP,18,0,4,379,44,0,445
+Desmembramento O Area Breda,1,0,0,3,0,0,4
 Distrito Industrial Prefeito S Fumagalli,0,0,0,1,0,0,1
-Distrito São Lucas Ii,1,0,0,5,0,0,6
-Doutor João Batista Levy,0,0,1,8,1,0,10
+Distrito Sao Lucas Ii,1,0,0,5,0,0,6
+Doutor Joao Batista Levy,0,0,1,8,1,0,10
 Geada,9,0,0,47,8,0,64
 Gleba Beatriz,6,0,0,32,3,0,41
-Jardim Adélia Cavicchia Grotta,0,0,0,57,2,0,59
-Jardim Águas da Serra,5,0,0,47,1,0,53
+Jardim Adelia Cavicchia Grotta,0,0,0,57,2,0,59
+Jardim Aguas da Serra,5,0,0,47,1,0,53
 Jardim Alvorada,6,0,1,120,25,0,152
 Jardim Anhanguera,6,0,1,81,7,0,95
 Jardim Aquarius,7,0,6,39,5,0,57
 Jardim Area S III,0,0,0,0,0,0,0
 Jardim Arruda,4,0,0,5,1,0,10
 Jardim Bandeirantes,3,0,2,110,13,0,128
-Jardim Barão de Limeira,11,0,2,183,11,0,207
-Jardim Barão de Souza Queiroz,0,0,0,2,0,0,2
+Jardim Barao de Limeira,11,0,2,183,11,0,207
+Jardim Barao de Souza Queiroz,0,0,0,2,0,0,2
 Jardim Bartolomeu Grotta,4,0,2,71,15,0,92
 Jardim Bela Vista,0,0,0,32,10,1,43
-Jardim Boa Esperança,9,0,1,114,25,1,150
+Jardim Boa Esperanca,9,0,1,114,25,1,150
 Jardim Boa Vista,10,0,0,99,10,1,120
 Jardim Brasil,2,0,2,86,16,2,108
 Jardim Caieira,15,0,5,102,16,1,139
 Jardim Campo Belo,11,0,2,207,24,1,245
 Jardim Campo Verde I,1,0,0,101,14,0,116
 Jardim Campo Verde II,0,0,0,12,1,0,13
-Jardim Canaã,13,0,0,53,13,0,79
+Jardim Canaa,13,0,0,53,13,0,79
 Jardim Cavinato,7,0,0,58,5,0,70
 Jardim Celina,2,0,0,35,8,0,45
 Jardim Chs de Recreio Santa Helena,0,0,1,1,0,0,2
-Jardim Cidade Universitária I,20,0,0,63,4,0,87
+Jardim Cidade Universitaria I,20,0,0,63,4,0,87
 Jardim Colina Verde,7,0,2,63,9,22,103
-Jardim Colinas de São João,3,0,1,23,8,0,35
+Jardim Colinas de Sao Joao,3,0,1,23,8,0,35
 Jardim Colonial,0,0,0,1,0,0,1
 Jardim Consoli,0,0,1,15,2,0,18
 Jardim da Graminha,0,0,0,5,2,0,7
@@ -59,32 +59,32 @@ Jardim das Paineiras,5,0,0,8,13,0,26
 Jardim do Lago,15,0,2,136,25,5,183
 Jardim Dom Oscar Romeiro,1,0,0,7,2,0,10
 Jardim dos Jequitibas,13,0,0,96,22,3,134
-Jardim Doutor João Batista Levy,0,0,0,15,2,0,17
+Jardim Doutor Joao Batista Levy,0,0,0,15,2,0,17
 Jardim Elite,1,0,6,10,2,0,19
 Jardim Ernesto Kuhl,5,0,3,101,9,0,118
 Jardim Esmeralda,6,0,1,94,16,0,117
 Jardim Esteves,9,0,0,40,8,0,57
-Jardim Florença,6,0,2,108,11,0,127
-Jardim Glória,6,0,2,158,22,1,189
+Jardim Florenca,6,0,2,108,11,0,127
+Jardim Gloria,6,0,2,158,22,1,189
 Jardim Graminha,6,0,2,64,12,2,86
-Jardim Grêmio,0,0,0,22,2,0,24
+Jardim Gremio,0,0,0,22,2,0,24
 Jardim Gustavo Picinini,5,0,1,161,15,2,184
-Jardim Hortência,15,0,2,159,13,0,189
+Jardim Hortencia,15,0,2,159,13,0,189
 Jardim Ibirapuera,8,0,1,106,8,0,123
 Jardim Ipanema,7,0,2,60,14,0,83
 Jardim Ipiranga,4,0,1,35,3,0,43
-Jardim José Cortez,4,0,0,62,5,1,72
+Jardim Jose Cortez,4,0,0,62,5,1,72
 Jardim Kelly,0,0,0,6,0,0,6
 Jardim Lagoa Nova,10,0,3,147,26,1,187
 Jardim Laranjeiras,11,0,2,132,7,0,152
 Jardim Largo Azul,1,0,0,9,1,0,11
 Jardim Limeiranea,1,0,0,27,1,0,29
-Jardim Manacá,7,0,1,34,23,2,67
+Jardim Manaca,7,0,1,34,23,2,67
 Jardim Manoel Francisco,0,0,0,22,4,0,26
 Jardim Maria Buchi Modeneis,3,0,0,44,8,1,56
 Jardim Maria Flora,2,0,0,20,5,0,27
 Jardim Maria Helena,2,0,0,10,4,0,16
-Jardim Mediterrâneo,2,0,0,42,6,0,50
+Jardim Mediterraneo,2,0,0,42,6,0,50
 Jardim Mercedes,6,0,1,100,12,0,119
 Jardim Monte Carlo,1,0,1,2,0,0,4
 Jardim Montezuma,24,0,2,140,28,0,194
@@ -92,16 +92,16 @@ Jardim Morro Azul,7,0,1,89,19,1,117
 Jardim Morro Branco,7,0,4,58,4,0,73
 Jardim Nereide,3,0,1,76,13,2,95
 Jardim Nossa Senhora Amparo,0,0,0,1,0,0,1
-Jardim Nossa Senhora de Fátima,9,0,0,62,4,0,75
+Jardim Nossa Senhora de Fatima,9,0,0,62,4,0,75
 Jardim Nossa Senhora do Amparo,5,0,2,60,9,0,76
 Jardim Nova Conquista,1,0,2,22,6,0,31
 Jardim Nova Europa,14,0,1,125,16,2,158
-Jardim Nova Itália,20,0,2,100,24,1,147
+Jardim Nova Italia,20,0,2,100,24,1,147
 Jardim Nova Limeira,3,0,8,99,7,1,118
-Jardim Nova Suíça,30,0,4,360,46,1,441
+Jardim Nova Suica,30,0,4,360,46,1,441
 Jardim Novo Horizonte,17,0,3,163,22,0,205
-Jardim Novo México,2,0,0,3,5,1,11
-Jardim Odécio Degan,1,0,0,30,3,0,34
+Jardim Novo Mexico,2,0,0,3,5,1,11
+Jardim Odecio Degan,1,0,0,30,3,0,34
 Jardim Olga Veroni,23,0,2,312,19,0,356
 Jardim Orestes Veroni,9,0,3,90,10,0,112
 Jardim Ouro Branco,3,0,1,28,2,0,34
@@ -109,7 +109,7 @@ Jardim Ouro Verde,21,0,1,112,22,0,156
 Jardim Palmeiras,5,0,2,32,2,0,41
 Jardim Parque Avenida,1,0,0,6,5,0,12
 Jardim Paulista,7,0,0,28,5,0,40
-Jardim Pérola,1,0,11,15,3,0,30
+Jardim Perola,1,0,11,15,3,0,30
 Jardim Piratininga,40,0,5,279,36,1,361
 Jardim Planalto,13,0,2,225,24,0,264
 Jardim Portal das Rosas,2,0,0,1,0,0,3
@@ -124,10 +124,10 @@ Jardim Residencial Alto da Capela,0,0,0,0,0,0,0
 Jardim Residencial Alto da Graminha,2,0,0,11,8,1,22
 Jardim Residencial Alto do Flamboyant,5,0,1,38,4,0,48
 Jardim Residencial Alto Graminha,0,0,0,3,1,0,4
-Jardim Residencial Antônio Simonetti,20,0,0,61,4,0,85
-Jardim Residencial Antônio Simonetti Ii,0,0,1,10,1,1,13
-Jardim Residencial Antônio Simonetti Iii,3,0,0,17,0,0,20
-Jardim Residencial Antônio Simonetti Iv,1,0,0,9,1,0,11
+Jardim Residencial Antonio Simonetti,20,0,0,61,4,0,85
+Jardim Residencial Antonio Simonetti Ii,0,0,1,10,1,1,13
+Jardim Residencial Antonio Simonetti Iii,3,0,0,17,0,0,20
+Jardim Residencial Antonio Simonetti Iv,1,0,0,9,1,0,11
 Jardim Residencial Basteli,0,0,0,7,0,0,7
 Jardim Residencial Campo Novo,2,0,0,36,6,0,44
 Jardim Residencial Comercial Alto Laranjais,3,0,0,61,3,1,68
@@ -135,37 +135,37 @@ Jardim Residencial Flora,1,0,0,0,0,0,1
 Jardim Residencial Graminha II,2,0,0,23,6,0,31
 Jardim Residencial Graminha III,5,0,0,19,3,0,27
 Jardim Residencial Granja Machado,6,0,0,101,19,0,126
-Jardim Residencial Guimarães,12,0,0,53,8,0,73
+Jardim Residencial Guimaraes,12,0,0,53,8,0,73
 Jardim Residencial Luiz Regitano,0,0,0,18,2,0,20
 Jardim Residencial Recanto Alvorada,8,0,5,58,8,0,79
 Jardim Residencial Regina Bastelli,3,0,4,57,2,0,66
 Jardim Residencial Roseira,2,0,2,50,9,0,63
-Jardim Residencial S Poço Peccinino,0,0,0,0,0,0,0
-Jardim Residencial Santa Amália,2,0,0,25,3,4,34
-Jardim Residencial Santina Poço Peccinino,17,0,2,197,19,0,235
+Jardim Residencial S Poco Peccinino,0,0,0,0,0,0,0
+Jardim Residencial Santa Amalia,2,0,0,25,3,4,34
+Jardim Residencial Santina Poco Peccinino,17,0,2,197,19,0,235
 Jardim Residencial Village,17,0,0,68,14,0,99
-Jardim Residencial Walter Lúcio Peccinini,1,0,0,3,2,0,6
+Jardim Residencial Walter Lucio Peccinini,1,0,0,3,2,0,6
 Jardim Rossi,1,0,0,62,7,0,70
-Jardim Santa Adélia,21,0,3,120,19,0,163
-Jardim Santa Amália,2,0,0,21,3,4,30
-Jardim Santa Bárbara,1,0,0,12,3,0,16
+Jardim Santa Adelia,21,0,3,120,19,0,163
+Jardim Santa Amalia,2,0,0,21,3,4,30
+Jardim Santa Barbara,1,0,0,12,3,0,16
 Jardim Santa Catarina,6,0,0,46,5,0,57
-Jardim Santa Cecília,7,0,3,130,28,0,168
+Jardim Santa Cecilia,7,0,3,130,28,0,168
 Jardim Santa Eulalia,21,0,2,317,34,2,376
-Jardim Santa Fé,4,0,0,14,3,0,21
-Jardim Santa Luíza,4,0,0,21,8,0,33
+Jardim Santa Fe,4,0,0,14,3,0,21
+Jardim Santa Luiza,4,0,0,21,8,0,33
 Jardim Santana,2,0,0,36,2,0,40
-Jardim Santo André,16,0,4,253,23,8,304
-Jardim São Francisco,6,0,0,24,7,0,37
-Jardim São João,0,0,0,17,8,0,25
-Jardim São Lourenço,6,0,1,69,7,0,83
-Jardim São Luiz,11,0,2,92,15,2,122
-Jardim São Manoel,15,0,1,75,20,0,111
-Jardim São Paulo,9,0,0,164,37,0,210
-Jardim São Pedro,2,0,0,46,2,1,51
-Jardim São Rafael,1,0,0,16,0,0,17
-Jardim São Roque,2,0,0,66,9,0,77
-Jardim São Simão,2,0,0,39,5,0,46
+Jardim Santo Andre,16,0,4,253,23,8,304
+Jardim Sao Francisco,6,0,0,24,7,0,37
+Jardim Sao Joao,0,0,0,17,8,0,25
+Jardim Sao Lourenco,6,0,1,69,7,0,83
+Jardim Sao Luiz,11,0,2,92,15,2,122
+Jardim Sao Manoel,15,0,1,75,20,0,111
+Jardim Sao Paulo,9,0,0,164,37,0,210
+Jardim Sao Pedro,2,0,0,46,2,1,51
+Jardim Sao Rafael,1,0,0,16,0,0,17
+Jardim Sao Roque,2,0,0,66,9,0,77
+Jardim Sao Simao,2,0,0,39,5,0,46
 Jardim Senador Vergueiro,6,0,1,72,11,0,90
 Jardim Sol Area Sol,0,0,0,0,0,0,0
 Jardim Solar dos Nobres,1,0,0,19,6,0,26
@@ -173,61 +173,61 @@ Jardim Terras de Santa Elisa,0,0,0,7,0,0,7
 Jardim Trevo,1,0,0,2,1,0,4
 Jardim Vanessa,6,0,0,54,4,0,64
 Jardim Vista Alegre,16,0,0,212,23,0,251
-Jardim Vitória,3,0,0,13,1,0,17
-Jardim Vitório Lucato,17,0,3,85,11,3,119
+Jardim Vitoria,3,0,0,13,1,0,17
+Jardim Vitorio Lucato,17,0,3,85,11,3,119
 Lagoa Nova Rural,4,0,0,7,0,0,11
 Marajoara,3,0,5,263,22,1,294
 Outros,35,0,20,717,52,5,829
-Parque Campos Elíseos,1,0,1,24,1,0,27
+Parque Campos Eliseos,1,0,1,24,1,0,27
 Parque Centreville,2,0,1,43,8,0,54
-Parque das Nações,33,0,1,228,18,1,281
+Parque das Nacoes,33,0,1,228,18,1,281
 Parque Egisto Ragazzo,18,0,4,167,22,0,211
-Parque Expedicionário Hipólito,6,0,0,103,8,0,117
+Parque Expedicionario Hipolito,6,0,0,103,8,0,117
 Parque Hipolyto,18,0,3,325,32,1,379
-Parque Nações,1,0,0,30,1,0,32
+Parque Nacoes,1,0,0,30,1,0,32
 Parque Nossa Senhora das Dores,20,0,4,219,31,1,275
 Parque Novo Mundo,7,0,3,201,13,0,224
 Parque Pompeo,3,0,0,92,18,0,113
 Parque Ragazzo,0,0,0,5,0,0,5
 Parque Real,4,0,0,26,7,0,37
-Parque Residencial Abílio Pedro,42,0,2,268,50,1,363
+Parque Residencial Abilio Pedro,42,0,2,268,50,1,363
 Parque Residencial Aeroporto,17,0,4,239,34,0,294
 Parque Residencial Belinha Ometto,14,0,4,159,21,0,198
-Parque Residencial Independência,0,0,0,0,1,0,1
-Parque Residencial João Ometto,3,0,0,62,6,0,71
-Parque Residencial Manoel Simão Levy (Inocoop),5,0,1,54,10,1,71
+Parque Residencial Independencia,0,0,0,0,1,0,1
+Parque Residencial Joao Ometto,3,0,0,62,6,0,71
+Parque Residencial Manoel Simao Levy Inocoop,5,0,1,54,10,1,71
 Parque Residencial Roland,0,0,1,42,3,0,46
 Parque Residencial Sthalberg,2,0,0,15,1,0,18
 Parque Residencial Tancredo Neves,1,0,0,10,3,0,14
 Parque Rosa Marrafon Lucas,3,0,0,18,1,0,22
-Parque São Bento,0,0,1,5,0,0,6
+Parque Sao Bento,0,0,1,5,0,0,6
 Pinhal,1,0,4,9,8,1,23
-Portal de São Clemente,2,0,0,10,0,0,12
+Portal de Sao Clemente,2,0,0,10,0,0,12
 Porto Real Vila,0,0,0,2,0,0,2
 Residencial Alto do Lago,0,0,0,12,0,0,12
 Residencial Alto Lago,0,0,0,0,0,0,0
-Residencial Antônio Brigato,1,0,0,19,4,0,24
+Residencial Antonio Brigato,1,0,0,19,4,0,24
 Residencial Casalbuono,0,0,0,5,0,0,5
-Residencial Chs São José,0,0,0,0,0,0,0
-Residencial dos Girassóis,1,0,0,7,0,0,8
-Residencial Fênix,6,0,0,16,7,0,29
+Residencial Chs Sao Jose,0,0,0,0,0,0,0
+Residencial dos Girassois,1,0,0,7,0,0,8
+Residencial Fenix,6,0,0,16,7,0,29
 Residencial Interlagos,1,0,0,7,10,0,18
-Residencial Jardim dos Ipês,0,0,0,2,0,0,2
+Residencial Jardim dos Ipes,0,0,0,2,0,0,2
 Residencial Las Palmas,1,0,0,9,4,0,14
 Residencial Margarida de Holstein,0,0,0,1,0,0,1
-Residencial Morada das Acácias,7,0,0,47,20,1,75
+Residencial Morada das Acacias,7,0,0,47,20,1,75
 Residencial Nobreville,4,0,0,56,7,1,68
-Residencial Palmeira Real (Royal Palm),17,0,1,89,9,0,116
-Residencial Recanto dos Pássaros,0,0,0,1,0,0,1
+Residencial Palmeira Real Royal Palm,17,0,1,89,9,0,116
+Residencial Recanto dos Passaros,0,0,0,1,0,0,1
 Residencial Rubi,9,0,0,85,11,0,105
-Residencial São Miguel,0,0,0,11,2,0,13
+Residencial Sao Miguel,0,0,0,11,2,0,13
 Residencial Villa do Sol,2,0,0,4,0,0,6
 Rural,0,0,0,1,0,0,1
-Santa Lúcia,1,0,0,5,1,0,7
-São Francisco,0,0,0,0,0,0,0
-São João (Rural),0,0,0,1,0,0,1
+Santa Lucia,1,0,0,5,1,0,7
+Sao Francisco,0,0,0,0,0,0,0
+Sao Joao Rural,0,0,0,1,0,0,1
 Tatu,1,0,5,35,9,0,50
-Terras de São Bento I,0,0,1,2,6,0,9
+Terras de Sao Bento I,0,0,1,2,6,0,9
 Vale das Oliveiras,0,0,0,7,0,0,7
 Vila Agostinho F Assis,1,0,0,4,2,0,7
 Vila Anita,5,0,1,69,13,1,89
@@ -235,21 +235,21 @@ Vila Bragotto,2,0,0,22,0,0,24
 Vila Camargo,32,0,1,289,25,0,347
 Vila Castelar,9,0,4,148,14,0,175
 Vila Cidade Jardim,22,0,2,185,30,0,239
-Vila Cláudia,19,0,1,200,45,1,266
-Vila Conceição,0,0,0,29,3,0,32
+Vila Claudia,19,0,1,200,45,1,266
+Vila Conceicao,0,0,0,29,3,0,32
 Vila Cristovam,20,0,4,144,16,0,184
-Vila da Glória,0,0,0,47,7,0,54
+Vila da Gloria,0,0,0,47,7,0,54
 Vila Eliza Fumagalli,2,0,2,38,8,0,50
 Vila Esteves,4,0,0,62,12,0,78
 Vila Fascina,4,0,0,43,15,0,62
 Vila Fior,0,0,0,15,11,0,26
 Vila Gioto,5,0,0,64,6,0,75
-Vila Independência,6,0,1,153,16,0,176
+Vila Independencia,6,0,1,153,16,0,176
 Vila Labaki,5,0,1,80,10,0,96
 Vila Limeiranea,1,0,0,8,1,0,10
 Vila Mathias,2,0,0,15,4,0,21
 Vila Nova,1,0,0,25,2,0,28
-Vila Paraíso,0,0,0,30,8,0,38
+Vila Paraiso,0,0,0,30,8,0,38
 Vila Paulista,7,0,1,121,30,1,160
 Vila Piza,19,0,0,294,38,0,351
 Vila Primavera,2,0,0,26,4,0,32
@@ -260,11 +260,11 @@ Vila Rosana,10,0,2,75,9,1,97
 Vila San Marino,0,0,0,6,1,0,7
 Vila Santa Josefa,0,0,0,10,1,0,11
 Vila Santa Lina,10,0,0,47,11,0,68
-Vila Santa Lúcia,7,0,1,65,13,0,86
-Vila Santa Rosália,2,0,0,77,6,0,85
-Vila São Geraldo,3,0,0,26,1,0,30
-Vila São João,42,0,2,162,30,0,236
-Vila São Luiz,14,0,2,130,14,0,160
-Vila São Roque,5,0,1,75,1,0,82
+Vila Santa Lucia,7,0,1,65,13,0,86
+Vila Santa Rosalia,2,0,0,77,6,0,85
+Vila Sao Geraldo,3,0,0,26,1,0,30
+Vila Sao Joao,42,0,2,162,30,0,236
+Vila Sao Luiz,14,0,2,130,14,0,160
+Vila Sao Roque,5,0,1,75,1,0,82
 Vila Solar,0,0,1,30,4,0,35
 Vila Teixeira Marques,8,0,0,115,10,0,133
