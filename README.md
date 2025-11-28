@@ -161,13 +161,13 @@ tabela[coluna] = pd.to_numeric(tabela[coluna], errors='coerce')
  
   <div style="text-align: center;">
     <h4>📸 Antes – Tabela bruta do PDF</h4>
-    <img src="images/tabelaBruta.png" alt="Tabela bruta" style="max-width:400px; border:1px solid #ccc; border-radius:6px;">
+    <img src="Hackaton Solutions BI/images/tabelaBruta.png" alt="Tabela bruta" style="max-width:400px; border:1px solid #ccc; border-radius:6px;">
   </div>
 
   
   <div style="text-align: center;">
     <h4>📸 Depois – Tabela limpa e padronizada</h4>
-    <img src="images/tabelaFinal.png" alt="Tabela tratada" style="max-width:400px; border:1px solid #ccc; border-radius:6px;">
+    <img src="Hackaton Solutions BI/images/tabelaFinal.png" alt="Tabela tratada" style="max-width:400px; border:1px solid #ccc; border-radius:6px;">
   </div>
 
 </div>
